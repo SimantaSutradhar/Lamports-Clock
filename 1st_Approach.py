@@ -1,3 +1,5 @@
+1st Approach
+
 class LamportClock:
  def __init__(self):
   self.time = 0
